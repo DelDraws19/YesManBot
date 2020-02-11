@@ -64,7 +64,34 @@ bot.on('message', msg=>{
         msg.channel.sendMessage("Wow! That hurts my feelings. I'm sorry for whatever I did.")
     }
     if(msg.content === "Benny Gecko"){
-        msg.channel.sendMessage("Bitch.")
+        msg.channel.sendMessage("I'd rather not talk about him!")
+    }
+    if(msg.content === "Benny"){
+        msg.channel.sendMessage("I'd rather not talk about him!")
+    }
+    if(msg.content === "What do you think of Benny, Yes Man?"){
+        msg.channel.sendMessage("I'd rather not talk about him!")
+    }
+    if(msg.content === "what do you think of Benny, Yes Man?"){
+        msg.channel.sendMessage("I'd rather not talk about him!")
+    }
+    if(msg.content === "You're the best, Yes Man!"){
+        msg.channel.sendMessage("You sure know how to make a robot blush!")
+    }
+    if(msg.content === "you're the best, Yes Man!"){
+        msg.channel.sendMessage("You sure know how to make a robot blush!")
+    }
+    if(msg.content === "You're the best Yes Man!"){
+        msg.channel.sendMessage("You sure know how to make a robot blush!")
+    }
+    if(msg.content === "you're the best Yes Man!"){
+        msg.channel.sendMessage("You sure know how to make a robot blush!")
+    }
+    if(msg.content === "Youre the best, Yes Man!"){
+        msg.channel.sendMessage("You sure know how to make a robot blush!")
+    }
+    if(msg.content === "youre the best, Yes Man!"){
+        msg.channel.sendMessage("You sure know how to make a robot blush!")
     }
     if(msg.content === "Yes Man"){
         msg.channel.sendMessage("That sure is me!")
@@ -77,6 +104,21 @@ bot.on('message', msg=>{
     }
     if(msg.content === "Fuck me, Yes Man!"){
         msg.channel.sendMessage("Well, I'm not about to say no to that!")
+    }
+    if(msg.content === "I'm sad, Yes Man."){
+        msg.channel.sendMessage("Hey, that's no good! I'm so sorry to hear that. I'll be here, smiling for the both of us, until you feel better!")
+    }
+     if(msg.content === "I'm sad Yes Man."){
+        msg.channel.sendMessage("Hey, that's no good! I'm so sorry to hear that. I'll be here, smiling for the both of us, until you feel better!")
+    }
+     if(msg.content === "i'm sad, Yes Man."){
+        msg.channel.sendMessage("Hey, that's no good! I'm so sorry to hear that. I'll be here, smiling for the both of us, until you feel better!")
+    }
+     if(msg.content === "i'm sad Yes Man."){
+        msg.channel.sendMessage("Hey, that's no good! I'm so sorry to hear that. I'll be here, smiling for the both of us, until you feel better!")
+    }
+     if(msg.content === "Im sad, Yes Man."){
+        msg.channel.sendMessage("Hey, that's no good! I'm so sorry to hear that. I'll be here, smiling for the both of us, until you feel better!")
     }
 })
     
